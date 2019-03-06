@@ -1,0 +1,128 @@
+a
+{
+	color: green;
+	text-decoration: none; 
+}
+h1
+{
+	color: green;
+	margin-left: 40px; 
+}
+.Ordered
+{
+	background: pink;
+	margin:auto;
+	width: 500px;	
+}
+.ul
+{
+	color:orange;
+} 
+#sahil
+{
+	color:red;
+}
+hr
+{
+	color:black;
+}
+.second
+{
+	width: 600px;
+	margin: auto;
+}
+.Main
+{
+	padding-left: 12px;
+	height: 150px;
+	width: 70%;
+	background-color: #03c1a2;
+	float: left; 
+}
+.Sidebar
+{
+	padding-left: 12px;
+	height: 150px;
+	width: 20%;
+	background-color: #b20e0e;
+	float: left;
+}
+.Sidebar ul
+{
+	list-style: none;
+}
+.Sidebar ul a
+ {
+	text-decoration: none;
+	color: white;
+}
+.navigation li
+{
+	padding-left: 20px;
+	display: inline;
+
+}
+.navigation ul a
+{
+	text-decoration: none;
+	color: black;
+}
+ul a:hover
+{
+	text-decoration: underline;
+	color: red;
+	font-size: 20px;
+	
+}
+.list form li
+{
+	list-style: none;
+	margin-bottom: 20px;
+}
+.list input
+{
+	margin-right: 13px;
+}
+.list textarea
+{
+	width: 400px;
+	height: 150px;
+}
+.list label
+{
+	padding-right: 5px;
+	padding-bottom: 10px;
+	font-family: sans-serif;
+	color: black;
+}
+.img h1
+{
+	background: url(../images/456.png) no-repeat;	
+	text-indent: -99999px;
+	width: 224px;
+	height: 224px;
+	color: black;
+}
+#style h1
+{
+	font-size: 100px;
+	margin-left: 150px;
+	font-family: sans-serif;
+	letter-spacing: 2px;
+	color: brown;
+	text-shadow: 
+	2px 4px 0px black,
+	3px 6px 7px red,
+	4px 8px 9px green;
+}
+.image
+{
+	position: absolute;
+	left: 250px;
+}
+.overlap
+{
+	position: relative;
+	left: 252px;
+	top: 10px;
+}
